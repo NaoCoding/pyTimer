@@ -19,7 +19,7 @@
 ![image](https://github.com/NaoCoding/pyTimer/assets/86964895/acb79994-6acd-40ae-bef7-36624d68b750)
 ![image](https://github.com/NaoCoding/pyTimer/assets/86964895/e8f47f62-010a-4a35-8fb4-f4cd2006ad43)
 ![image](https://github.com/NaoCoding/pyTimer/assets/86964895/a035f2a7-8706-432e-b254-b38baa2a69ab)
-![image](https://github.com/NaoCoding/pyTimer/assets/86964895/1a2eb70a-43b8-48de-b510-405fef28c16f)
+
 
 
 
