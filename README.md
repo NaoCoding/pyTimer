@@ -8,7 +8,7 @@
 * A Timer made with Python Tkinter and Plyer
 * .exe version release (Turn off all anti-virus and Windows Defender since It may be detected as a virus)
 * Desktop Notifications may be affected by "Do Not Disturb"
-* Welcome to rebuild the application
+* Feel free to rebuild the application
 
 ## How to use
 * Download the .exe version or .py source code
