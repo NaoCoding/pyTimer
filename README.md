@@ -1,9 +1,5 @@
-# PyTimer 
-* Python Windows Timer with desktop notification
-* Author : NaoCoding
+![pyTimer](https://socialify.git.ci/NaoCoding/pyTimer/image?description=1&language=1&name=1&owner=1&theme=Light)
   
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## Overview
 * A Timer made with Python Tkinter and Plyer
 * .exe version release (Turn off all anti-virus and Windows Defender since It may be detected as a virus)
